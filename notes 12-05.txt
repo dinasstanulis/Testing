@@ -1,0 +1,20 @@
+
+the website should:
+1. be the same as designed in figma, including 	Colors Typography Interactive elements Icons Images 
+2. be responsive to different screen sizes as specified in figma, including desktop, tablet, mobile
+3. have hover states on interactive elements
+4. have login and sign up pages
+5. pages include: login, sign up, recommended for you, trending, movies, tv series, bookmarked
+6. have a search bar
+7. have a navigation menu for mentioned pages
+
+expand these requirements into functionality, user interface and visual design compliance (figma)
+
+Make a test case scenario for sign up validation
+Make test cases out of the scenario
+Implement necessary black-box testing techniques tables
+
+test steps?
+implement black box into test cases?
+
+test cases rasyti tik funkciniams reikalavimams, o ne funkcinius (pvz figmos ismatavimai, screen size) testuot ir klaidas rasyti i bug report.
